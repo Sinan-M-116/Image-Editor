@@ -1,4 +1,4 @@
-# By @TroJanzHEX
+Howy @TroJanzHEX
 from image.edit_1 import (  # pylint:disable=import-error
     bright,
     mix,
@@ -111,7 +111,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://github.com/TroJanzHEX/Image-Editor"
+                        "🖥️ HOW TO OWN 🖥️", url="https://github.com/TroJanzHEX/Image-Editor"
                     )
                 ],
             ]
@@ -131,7 +131,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://github.com/TroJanzHEX/Image-Editor"
+                        "🖥️ HOW TO OWN 🖥️", url="https://github.com/TroJanzHEX/Image-Editor"
                     )
                 ],
             ]
@@ -148,7 +148,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://github.com/TroJanzHEX/Image-Editor"
+                        "🖥️ HOW TO OWN 🖥️", url="https://github.com/TroJanzHEX/Image-Editor"
                     )
                 ],
             ]
