@@ -48,6 +48,7 @@ from image.edit_5 import (  # pylint:disable=import-error
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, CallbackQuery
 from pyrogram import Client
 from script import script  # pylint:disable=import-error
+from sample_config import LINK
 
 
 @Client.on_callback_query()
@@ -111,7 +112,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "🖥️ HOW TO OWN 🖥️", url="https://github.com/TroJanzHEX/Image-Editor"
+                        "🖥️ HOW TO OWN 🖥️", url=f"{LINK}"
                     )
                 ],
             ]
@@ -131,7 +132,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "🖥️ HOW TO OWN 🖥️", url="https://github.com/TroJanzHEX/Image-Editor"
+                        "🖥️ HOW TO OWN 🖥️", url=f"{LINK}"
                     )
                 ],
             ]
@@ -148,7 +149,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "🖥️ HOW TO OWN 🖥️", url="https://github.com/TroJanzHEX/Image-Editor"
+                        "🖥️ HOW TO OWN 🖥️", url=f"{LINK}"
                     )
                 ],
             ]
