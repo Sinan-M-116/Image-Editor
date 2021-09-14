@@ -3,6 +3,7 @@
 
 import os
 
+LINK = "T.ME/MOTECH_yt"
 
 class Config(object):
     TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
@@ -13,4 +14,4 @@ class Config(object):
 
     # Get this api from https://www.remove.bg/b/background-removal-api
     RemoveBG_API = os.environ.get("RemoveBG_API", "")
-    LINK = "T.ME/MOTECH_yt"
+    
