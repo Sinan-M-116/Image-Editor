@@ -18,7 +18,7 @@
   </a>  
 </p>
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/TroJanzHEX/Image-Editor/blob/main/COPYING)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/MRK-YT/MT-Image-Editor)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/MRK-YT/MT-Image-Editor/blob/main/COPYING)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/MRK-YT/MT-Image-Editor)
 
 #### An open source image editor which can manipulate an image in many ways!
 #### If you need any more modes in repo or If you find out any bugs, mention in @TroJanzSupport
