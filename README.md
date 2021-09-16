@@ -44,7 +44,7 @@ python3 bot.py
 * TG_BOT_TOKEN  - Get bot token from @BotFather
 * APP_ID        - From my.telegram.org (or @MT_MytelegramOrg_Bot)
 * API_HASH      - From my.telegram.org (or @MT_MytelegramOrg_Bot)
-* RemoveBG_API  - From [RemoveBG](https://www.remove.bg/b/background-removal-api)
+* RemoveBG_API  - From [RemoveBG](https://youtu.be/D8lANif4U9A)
 
 ## Credits
 
