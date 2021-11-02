@@ -9,8 +9,8 @@
         "TroJanzHEX"
     ],
     "website": "https://TroJanzHEX.me",
-    "repository": "https://github.com/MRK-YT/MT-Image-Editor",
-    "success_url": "https://github.com/MRK-YT/MT-Image-Editor",
+    "repository": "https://github.com/sinan-m-116/Image-Editor",
+    "success_url": "https://github.com/sinan-m-116/Image-Editor",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
