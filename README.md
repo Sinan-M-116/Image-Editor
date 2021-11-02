@@ -28,7 +28,7 @@
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MRK-YT/MT-Image-Editor)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sinan-m-116/Image-Editor) the
 
 ### Deploy in your vps
 ```sh
@@ -42,9 +42,9 @@ python3 bot.py
 ## Configs
 
 * TG_BOT_TOKEN  - Get bot token from @BotFather
-* APP_ID        - From my.telegram.org (or @MT_MytelegramOrg_Bot)
-* API_HASH      - From my.telegram.org (or @MT_MytelegramOrg_Bot)
-* RemoveBG_API  - From [RemoveBG](https://youtu.be/D8lANif4U9A)
+* APP_ID        - From my.telegram.org 
+* API_HASH      - From my.telegram.org 
+* RemoveBG_API  - From RemoveBG
 
 ## Credits
 
