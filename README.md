@@ -1,25 +1,5 @@
 # Image Editor
 
-<p align="center">
-  <a href="https://www.python.org">
-    <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
-
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/sinan-m-116/Image-Editor/stargazers">
-    <img src="https://img.shields.io/github/stars/sinan-m-116/Image-Editor?style=social">
-
-  </a>
-  
-  <a href="https://github.com/sinan-m-116/Image-Editor/fork">
-    <img src="https://img.shields.io/github/forks/sinan-m-116/Image-Editor?label=Fork&style=social">
-
-  </a>  
-</p>
-ㅤㅤㅤㅤㅤㅤㅤ  
-
-
 ### Deploy to Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sinan-m-116/Image-Editor) the
 
@@ -33,7 +13,7 @@
 
 ## CREDIT 
 
-<a href="https://t.me/shiastudent"><img src="https://img.shields.io/badge/creater-2cb6e0?style=for-the-badge&logo=telegram&logoColor=green"></a>
+<a href="https://t.me/SinzzBotzz"><img src="https://img.shields.io/badge/creater-2cb6e0?style=for-the-badge&logo=telegram&logoColor=green"></a>
 
 <a href="https://t.me/Pythone_3"><img src="https://img.shields.io/badge/creater-2cb6e0?style=for-the-badge&logo=telegram&logoColor=yellow"></a>
 
