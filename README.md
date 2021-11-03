@@ -12,7 +12,7 @@
 ![GitHub](https://img.shields.io/github/license/Sinan-M-116/Image-Editor)
 [![Bot Updates](https://img.shields.io/badge/Image%20Editor-Updates%20Channel-green)](https://t.me/sinzzbotz)
 [![Bot Support](https://img.shields.io/badge/Image%20Editor-Support%20Group-blue)](https://t.me/sinzz_botz)
-[![Bot Support](https://img.shields.io/badge/Image%20Editor-support%20bot-red)](https://t.me/SINANzz_privat_bot)
+[![Bot Support](https://img.shields.io/badge/Image%20Editor-support%20bot-red)](https://t.me/SINANzz_private_BOT)
 
 ### Deploy to Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sinan-m-116/Image-Editor) the
