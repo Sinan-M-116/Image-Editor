@@ -13,12 +13,10 @@
 
 # CREDIT 
 
-<a href="https://t.me/SinzzBotzz"><img src="https://img.shields.io/badge/creater-2cb6e0?style=for-the-badge&logo=telegram&logoColor=green"></a>
+<a href="https://t.me/SinzzBotzz"><img src="https://img.shields.io/badge/creater-2cb6e0?style=for-the-badge&logo=telegram&logoColor=green"></a> | <a href="https://t.me/Pythone_3"><img src="https://img.shields.io/badge/creater-2cb6e0?style=for-the-badge&logo=telegram&logoColor=yellow"></a> | <a href="https://t.me/shiastudent"><img src="https://img.shields.io/badge/creater-2cb6e0?style=for-the-badge&logo=telegram&logoColor=green"></a>
 
-<a href="https://t.me/Pythone_3"><img src="https://img.shields.io/badge/creater-2cb6e0?style=for-the-badge&logo=telegram&logoColor=yellow"></a>
 
-<a href="https://t.me/shiastudent"><img src="https://img.shields.io/badge/creater-2cb6e0?style=for-the-badge&logo=telegram&logoColor=green"></a>
-
+<a href="https://GitHub.com/sinan-m-116"><img src="https://img.shields.io/badge/GitHube-2cb6e0?style=for-the-badge&logo=GitHub&logoColor=yellow"></a> | <a href="https://GitHub.com/sinan-m-coder"><img src="https://img.shields.io/badge/GitHube-2cb6e0?style=for-the-badge&logo=GitHub&logoColor=yellow"></a>
 ## Demo bot
 
 <a href="https://t.me/imageeditor_sinzzbot"><img src="https://img.shields.io/badge/demo%20bot-2cb6e0?style=for-the-badge&logo=telegram&logoColor=red"></a>
