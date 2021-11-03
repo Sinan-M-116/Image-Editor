@@ -20,10 +20,10 @@
 
 # Configs
 
-* TG_BOT_TOKEN  - Get bot token from @BotFather
-* APP_ID        - From my.telegram.org 
-* API_HASH      - From my.telegram.org 
-* RemoveBG_API  - From RemoveBG
+* TG_BOT_TOKEN - Get bot token from @BotFather
+* APP_ID      - From my.telegram.org 
+* API_HASH    - From my.telegram.org 
+* RemoveBG_API - From RemoveBG
 
 # CREDIT 
 
